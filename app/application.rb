@@ -44,8 +44,4 @@ class Application
       return "Couldn't find #{search_term}"
     end
   end
-
-  def check_item(item)
-
-  end
 end
